@@ -1,0 +1,2 @@
+FROM deepseek-v4.1-flash:1017
+PARAMETER num_ctx 1048576
